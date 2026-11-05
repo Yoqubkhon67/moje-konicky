@@ -6,3 +6,8 @@ Tento projekt je věnovaný mé oblíbené hře Counter-Strike 2, kterou hravam 
 ![Herní setup](images/cs2-setup.jpg)
 
 [Oficiální stránka Counter-Strike](https://www.counter-strike.net/cs2)
+
+### Hlavní přednosti hry:
+- Vylepšená grafika a fyzika
+- Dynamické dýmovnice (Responsive Smokes)
+- Sub-tick architektura serverů
