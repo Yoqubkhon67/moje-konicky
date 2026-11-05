@@ -1,1 +1,1 @@
-# moje-konicky
+# Můj koníček: Counter-Strike 2
