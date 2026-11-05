@@ -1,1 +1,2 @@
 Doplňkové texty o hře
+Hra běží na novém Source 2 enginu.
